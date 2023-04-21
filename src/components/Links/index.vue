@@ -46,12 +46,12 @@ let linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "https://blog.imsyy.top/",
+    link: "https://wushishu.xyz/",
   },
   {
     icon: Cloud,
-    name: "网盘",
-    link: "https://pan.imsyy.top/",
+    name: "聊天",
+    link: "https://life.hushichengyyds.top/",
   },
   {
     icon: CompactDisc,
