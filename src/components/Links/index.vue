@@ -60,7 +60,7 @@ let linksData = [
   },
   {
     icon: Compass,
-    name: "起始页",
+    name: "导航页",
     link: "https://nav.imsyy.top/",
   },
   {
