@@ -46,7 +46,7 @@ let linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "https://wushishu.xyz/",
+    link: "https://go.comefly.top/",
   },
   {
     icon: Cloud,
